@@ -12,3 +12,4 @@ A simple system stats overlay app for Windows built with Electron + React + Tail
 - **2025-09-20**: Repository created, cloned locally, and environment verified. (docs)
 - **2025-09-20**: Scaffolded Vite React app. (chore)
 - **2025-09-20**: Wired dev script and verified Electron window opens. (chore)
+- **2025-09-20**: Set transparent body background for overlay. (style)
